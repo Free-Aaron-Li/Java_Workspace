@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9390dadd-1e09-4ead-8a4b-ed3fb852e4c6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Java_Workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/StringCodePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/test.java" afterDir="false" />
+    <list default="true" id="9390dadd-1e09-4ead-8a4b-ed3fb852e4c6" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/gotoStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/demo/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter3/第3章.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/第3章.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +58,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,12 +71,22 @@
       <option name="presentableId" value="Default" />
       <updated>1683640882235</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1683963498723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683963498723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
